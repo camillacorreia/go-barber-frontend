@@ -8,6 +8,10 @@ export default createGlobalStyle`
     outline: 0;
   }
 
+  :root {
+    --primary-color: #FF9000;
+  }
+
   body {
     background: #312E38;
     color: #FFF;
